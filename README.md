@@ -8,6 +8,7 @@ Word are part of linux/unix distrobution. On linux *words* can be found at ````/
 
 Phrases
 -------
+````
 The end of the World is nigh!   
 Down this hole, frightened.
 The best things in life are free.
@@ -41,3 +42,4 @@ That's one small step for a man, one giant leap for mankind. --Neil Armstrong
 A thin man ran; makes a large stride, left planet, pins flag on moon! On to Mars!
 PRESIDENT CLINTON OF THE USA
 TO COPULATE HE FINDS INTERNS
+````
