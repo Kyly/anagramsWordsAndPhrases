@@ -8,6 +8,7 @@ Word are part of linux/unix distrobution. On linux *words* can be found at ````/
 
 Phrases
 -------
+Here's a list of some of the phrases you can find in anagrams_wp. The list is in lexicographical order so they may be hard to find visually, but trust me they're in there.  
 ````
 The end of the World is nigh!   
 Down this hole, frightened.
